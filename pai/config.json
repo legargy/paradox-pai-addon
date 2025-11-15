@@ -1,0 +1,9 @@
+{
+  "name":"Paradox PAI",
+  "version":"1.0.0",
+  "slug":"paradox_pai",
+  "description":"PAI integration for Paradox IP150+",
+  "startup":"services",
+  "boot":"auto",
+  "host_network": true
+}
